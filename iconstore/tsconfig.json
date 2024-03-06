@@ -7,8 +7,8 @@
     "strict": true,
     "noImplicitOverride": true,
     "paths": {
-      "icon-store": [
-        "./dist/icon-store"
+      "iconstore": [
+        "./dist/iconstore"
       ]
     },
     "noPropertyAccessFromIndexSignature": true,
